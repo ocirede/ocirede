@@ -10,7 +10,7 @@
 - 📚 Always keen on learning new things.
 - 📫 How to reach me: [federico.diaferia@gmail.com](mailto:federico.diaferia@gmail.com) or [LinkedIn](https://www.linkedin.com/in/federico-diaferia-902876225/)
 - 😄 Pronouns: He/Him
-- 💬 Ask me about how to make the best tiramisu
+- 💬 Ask me how to make the best tiramisu
 
 
 
