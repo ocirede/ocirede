@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi 👋, I'm Federico, passionate Fullstack Web Developer
 
-<!--
-**ocirede/ocirede** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💻 Fullstack Developer | 📈 Algorithmic Trading Enthusiast  
+🚀 Currently working with **Python, Node.js, and JavaScript**  
+📊 Building trading bots and analyzing financial data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 🌱 I’m currently learning learning Python
+- 📚 Always keen on learning new things.
+- 📫 How to reach me: [federico.diaferia@gmail.com](mailto:federico.diaferia@gmail.com) or [LinkedIn](https://www.linkedin.com/in/federico-diaferia-902876225/)
+- 😄 Pronouns: He/Him
+- 💬 Ask me about how to make the best tiramisu
+
+
+
+
+## Technologies I work with:
+
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" style="margin-right: 10px;" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
+</p>
+
+
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocirede&layout=compact&theme=light" width="48%" />  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ocirede&show_icons=true&theme=light" width="48%" />
+
+
