@@ -1,5 +1,4 @@
-# Hi 👋, I'm Federico, Fullstack Web Developer seeking for an opportunity
-
+# Hi 👋, I'm Federico, Fullstack Web Developer
 
 💻 Fullstack Developer | 📈 Algorithmic Trading Enthusiast  
 🚀 Currently working with **Python, Node.js, and JavaScript**  
