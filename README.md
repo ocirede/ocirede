@@ -28,13 +28,14 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" style="margin-right: 10px;" />
  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocirede&layout=compact&theme=light" width="48%" />  &nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=ocirede&show_icons=true&theme=light" width="48%" />
   
 </p>
 
 
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocirede&layout=compact&theme=light" width="48%" />  &nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=ocirede&show_icons=true&theme=light" width="48%" />
+
 
 
